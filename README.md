@@ -13,24 +13,25 @@
 - ⚡ Love solving math + programming problems
 
 ---
+## 🛠️ Tech Stack  
 
-🛠️ Tech Stack
+<p align="center">
 
-<p align="center">"Python" (https://img.shields.io/badge/-Python-000?&logo=python)
-"JavaScript" (https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-"HTML5" (https://img.shields.io/badge/-HTML5-000?&logo=html5)
-"CSS3" (https://img.shields.io/badge/-CSS3-000?&logo=css3)
-"C#" (https://img.shields.io/badge/-CSharp-000?&logo=csharp)
-"Nginx" (https://img.shields.io/badge/-Nginx-000?&logo=nginx)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)  
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)  
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=csharp)  
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)  
 
-</p>---
+</p>
 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fyphost&show_icons=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fyphost&theme=tokyonight">
 </p>---
 
 🔥 Projects
